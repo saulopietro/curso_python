@@ -1,4 +1,4 @@
-cpf_enviado = '073.302.883-73'.replace('.','').replace('-','')
+cpf_enviado = 'a'.replace('.','').replace('-','')
 nove_digitos = cpf_enviado[:9]
 contador_regressivo = 10
 resultado = 0 
